@@ -1713,7 +1713,7 @@ a {
   }
 
   .invest {
-    overflow-x: hidden;
+    overflow: hidden;
   }
 
   .invest__advantage-text {
